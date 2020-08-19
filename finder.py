@@ -175,10 +175,7 @@ def draw_grid(win, rows, width):
 
 def draw(win, grid, rows, width):
     win.fill(WHITE)
-
-
-git
-   for row in grid:
+    for row in grid:
         for cell in row:
             cell.draw(win)
 
