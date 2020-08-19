@@ -1,6 +1,7 @@
 # Shortest_path_visualizer
 
-Visualizes A\* start path finding algorithm
+Visualizes A\* start path finding algorithm.  
+Required Pygame and Tkinter.
 
 ## Implementation
 
